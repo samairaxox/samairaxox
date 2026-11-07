@@ -13,7 +13,7 @@
 
 </div>
 
-<br/>
+---
 
 ## `> hello_world` ✨
 
@@ -36,59 +36,44 @@ I work at the intersection of **Artificial Intelligence, Full-Stack Development,
 
 <div align="center">
 
-### 🥈 JPMorgan Chase Code for Good 2026
-
-**RUNNER-UP | MUMBAI**
-
 <table>
-<tr>
-<td align="center" width="100%">
-
-### 🏆 JPMorgan Chase — Code for Good
-
-**🥈 RUNNER-UP • 2026**
-
-Developed an AI-assisted beneficiary operations platform for ISRA.
-
-`React` `TypeScript` `OCR` `Eligibility Engine`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📈 BITS Pilani Hyderabad
-
-**FINANCIAL RESEARCH FINALIST**
-
-Finding the Next Signal
-
-AI-powered investment research and evidence verification.
-
-</td>
-<td align="center" width="50%">
-
-### 🏅 DataZen
-
-**CASE STUDY FINALIST**
-
-Data-driven analysis and problem-solving.
-
-</td>
-</tr>
 <tr>
 <td align="center" colspan="2">
 
-### 📜 NISM Series V-A
+🥈 <strong>JPMorgan Chase Code for Good 2026</strong>
 
-**CERTIFIED MUTUAL FUND DISTRIBUTOR**
+<strong>RUNNER-UP | MUMBAI</strong>
 
-Financial Markets • Mutual Funds • Investment Domain
+<sub>Built a beneficiary operations platform for ISRA using React, TypeScript and OCR-assisted validation.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+📈 <strong>BITS Pilani Hyderabad</strong>
+
+<strong>Financial Research Finalist</strong>
+
+<sub>Finding the Next Signal • SignalForge</sub>
+
+</td>
+<td align="center" width="50%">
+
+🏅 <strong>DataZen</strong>
+
+<strong>Case Study Finalist</strong>
+
+<sub>Data-driven problem solving</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+📜 <strong>NISM Series V-A</strong> — Certified Mutual Fund Distributor
 
 </td>
 </tr>
@@ -136,16 +121,6 @@ Financial Markets • Mutual Funds • Investment Domain
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Developer tools"/>
 
 </div>
-
----
-
-## `> currently_exploring` 🚀
-
-- 🤖 **Agentic AI** — Multi-agent systems and intelligent workflows
-- 📈 **AI in Finance** — Investment research and financial automation
-- 🧠 **RAG Systems** — Retrieval and knowledge-grounded generation
-- 💻 **Full-Stack Engineering** — Building scalable applications
-- 🔬 **Research** — Exploring emerging technologies
 
 ---
 
