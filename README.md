@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Samaira Sharma"/>
+<img src="./assets/hero.svg" width="100%" alt="Samaira Sharma Animated Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;FinTech+%7C+Agentic+AI+%7C+Research;Turning+Ideas+Into+Impact" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;FinTech+%7C+Agentic+AI+%7C+Research;Turning+Ideas+Into+Impact" alt="Animated typing introduction"/>
 
 <br/>
 
@@ -29,8 +29,6 @@ I work at the intersection of **Artificial Intelligence, Full-Stack Development,
 - 🧠 Learning, experimenting, and building through hackathons
 
 > *"Build. Break. Learn. Repeat."*
-
-<br/>
 
 ---
 
@@ -90,15 +88,13 @@ Data-driven analysis and problem-solving.
 
 **CERTIFIED MUTUAL FUND DISTRIBUTOR**
 
-Financial markets • Mutual Funds • Investment Domain
+Financial Markets • Mutual Funds • Investment Domain
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -141,8 +137,6 @@ Financial markets • Mutual Funds • Investment Domain
 
 </div>
 
-<br/>
-
 ---
 
 ## `> currently_exploring` 🚀
@@ -153,31 +147,15 @@ Financial markets • Mutual Funds • Investment Domain
 - 💻 **Full-Stack Engineering** — Building scalable applications
 - 🔬 **Research** — Exploring emerging technologies
 
-<br/>
-
 ---
 
 ## `> github_streak --live` 🔥
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samairaxox&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&stroke=8B5CF6&timezone=Asia%2FKolkata" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=samairaxox&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&stroke=8B5CF6&timezone=Asia%2FKolkata" alt="GitHub streak tracker"/>
 
 </div>
-
-<br/>
-
----
-
-## `> contribution_activity` 📊
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samairaxox&bg_color=0d1117&color=c084fc&line=ec4899&point=e9d5ff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -186,27 +164,5 @@ Financial markets • Mutual Funds • Investment Domain
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/samairaxox/samairaxox/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated lavender contribution snake"/>
-
-</div>
-
-<br/>
-
----
-
-## `> connect --with-me` 💌
-
-<div align="center">
-
-<a href="mailto:samairasharma152@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EC4899?style=for-the-badge&labelColor=3B3B3B" alt="Email"/>
-</a>
-
-<a href="https://github.com/samairaxox">
-<img src="https://img.shields.io/badge/GITHUB-SAMAIRAXOX-8B5CF6?style=for-the-badge&labelColor=3B3B3B&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<sub>✦ Thanks for stopping by. Stay curious, keep building. ✦</sub>
 
 </div>
