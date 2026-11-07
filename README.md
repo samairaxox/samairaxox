@@ -177,23 +177,15 @@ Developed SignalForge, an AI-powered investment research workflow focused on fin
 <div align="center">
 
 <a href="mailto:samairasharma152@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EC4899?style=for-the-badge&labelColor=3B3B3B" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_ACTUAL_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn"/>
+<a href="https://github.com/samairaxox">
+  <img src="https://img.shields.io/badge/GITHUB-SAMAIRAXOX-8B5CF6?style=for-the-badge&labelColor=3B3B3B&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
 
-<a href="https://github.com/samairaxox" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" height="44" alt="GitHub"/>
-</a>
-
-<br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=E9A8FF&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Stay+curious.+Keep+building.;See+you+in+the+next+commit!" alt="Animated goodbye"/>
+<sub>✦ Thanks for stopping by. Stay curious, keep building. ✦</sub>
 
 </div>
