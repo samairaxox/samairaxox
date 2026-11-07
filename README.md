@@ -1,47 +1,36 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Samaira Sharma Animated Banner"/>
+<img src="./assets/hero.svg" width="100%" alt="Samaira Sharma"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;FinTech+%2B+AI+Enthusiast;Hackathon+Builder;Turning+Ideas+Into+Impact" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;FinTech+%7C+Agentic+AI+%7C+Research;Turning+Ideas+Into+Impact" alt="Typing animation"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=samairaxox&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## `> whoami` 👩🏻‍💻
+## `> hello_world` ✨
 
-```yaml
-name: Samaira Sharma
-education: B.Tech Information Technology
-college: K. J. Somaiya School of Engineering
-location: Mumbai, India
+### Hey there! I'm Samaira 👋
 
-currently_building:
-  - AI-powered applications
-  - Multi-agent intelligent systems
-  - Full-stack platforms
-  - Financial technology solutions
+I'm a **B.Tech Information Technology student at K. J. Somaiya School of Engineering**, passionate about building intelligent systems and meaningful digital experiences.
 
-interests:
-  - Artificial Intelligence
-  - Financial Technology
-  - Software Engineering
-  - Research
-  - Competitive Programming
+I work at the intersection of **Artificial Intelligence, Full-Stack Development, FinTech, and Research**.
 
-motto: "Build. Break. Learn. Repeat."
-```
+- 🤖 Building AI agents, RAG pipelines, and intelligent applications
+- 💻 Developing full-stack products that solve real problems
+- 📈 Exploring AI-powered financial research and automation
+- 🧠 Learning, experimenting, and building through hackathons
 
-I'm an Information Technology undergraduate passionate about building intelligent applications that solve real-world problems.
+> *"Build. Break. Learn. Repeat."*
 
-From AI-powered financial research and multi-agent systems to full-stack applications, I love combining engineering, creativity, and problem-solving.
+<br/>
 
 ---
 
@@ -49,45 +38,71 @@ From AI-powered financial research and multi-agent systems to full-stack applica
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JPMorgan_Chase-Code_for_Good_2026_RUNNER--UP-C084FC?style=for-the-badge&labelColor=21162E" alt="JPMorgan Code for Good Runner-Up"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BITS_Pilani_Hyderabad-Financial_Research_Finalist-8B5CF6?style=for-the-badge&labelColor=21162E" alt="BITS Pilani Finalist"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DataZen-Case_Study_Finalist-EC4899?style=for-the-badge&labelColor=21162E" alt="DataZen Finalist"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NISM_Series_V--A-Certified_Mutual_Fund_Distributor-A78BFA?style=for-the-badge&labelColor=21162E" alt="NISM Certification"/>
-
-</div>
-
 ### 🥈 JPMorgan Chase Code for Good 2026
 
-**Runner-Up | Mumbai**
+**RUNNER-UP | MUMBAI**
 
-Built a beneficiary operations platform for ISRA, supporting onboarding, eligibility checks, OCR-assisted document validation, and approval workflows.
+<table>
+<tr>
+<td align="center" width="100%">
 
-### 📈 Finding the Next Signal — BITS Pilani Hyderabad
+### 🏆 JPMorgan Chase — Code for Good
 
-**Finalist | Financial Research Hackathon**
+**🥈 RUNNER-UP • 2026**
 
-Developed SignalForge, an AI-powered investment research workflow focused on financial claim verification, evidence triangulation, and contradiction detection.
+Developed an AI-assisted beneficiary operations platform for ISRA.
 
-### 🏅 DataZen Case Study Competition
+`React` `TypeScript` `OCR` `Eligibility Engine`
 
-**Finalist**
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📈 BITS Pilani Hyderabad
+
+**FINANCIAL RESEARCH FINALIST**
+
+Finding the Next Signal
+
+AI-powered investment research and evidence verification.
+
+</td>
+<td align="center" width="50%">
+
+### 🏅 DataZen
+
+**CASE STUDY FINALIST**
+
+Data-driven analysis and problem-solving.
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
 ### 📜 NISM Series V-A
 
-**Certified Mutual Fund Distributor**
+**CERTIFIED MUTUAL FUND DISTRIBUTOR**
+
+Financial markets • Mutual Funds • Investment Domain
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## `> tech-stack --list` 💻
+## `> tech_stack --show` 💻
 
 <div align="center">
 
@@ -95,9 +110,9 @@ Developed SignalForge, an AI-powered investment research workflow focused on fin
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" alt="Programming languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/SQL-PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 
 ### ✦ Frontend Development
 
@@ -111,7 +126,7 @@ Developed SignalForge, an AI-powered investment research workflow focused on fin
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" alt="Databases"/>
 
-### ✦ AI / ML / Data
+### ✦ AI / ML & Data
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge" alt="LangGraph"/>
@@ -126,49 +141,55 @@ Developed SignalForge, an AI-powered investment research workflow focused on fin
 
 </div>
 
----
-
-## `> currently-exploring` 🚀
-
-- 🤖 Agentic AI and multi-agent workflows
-- 📈 AI applications in finance and investment research
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💻 Full-stack engineering
-- 🔬 Research and intelligent automation
+<br/>
 
 ---
 
-## `> github --streak` 🔥
+## `> currently_exploring` 🚀
+
+- 🤖 **Agentic AI** — Multi-agent systems and intelligent workflows
+- 📈 **AI in Finance** — Investment research and financial automation
+- 🧠 **RAG Systems** — Retrieval and knowledge-grounded generation
+- 💻 **Full-Stack Engineering** — Building scalable applications
+- 🔬 **Research** — Exploring emerging technologies
+
+<br/>
+
+---
+
+## `> github_streak --live` 🔥
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samairaxox&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&stroke=8B5CF6&timezone=Asia%2FKolkata" alt="GitHub streak statistics"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/KEEP-THE_STREAK_ALIVE-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Keep the streak alive"/>
+<img src="https://streak-stats.demolab.com?user=samairaxox&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&stroke=8B5CF6&timezone=Asia%2FKolkata" alt="GitHub streak"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `> contribution-activity` 📊
+## `> contribution_activity` 📊
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samairaxox&bg_color=0d1117&color=c084fc&line=ec4899&point=e9d5ff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samairaxox&bg_color=0d1117&color=c084fc&line=ec4899&point=e9d5ff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `> ./contribution-snake` 🐍
+## `> ./contribution_snake` 🐍
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/samairaxox/samairaxox/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated lavender contribution snake"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -177,11 +198,11 @@ Developed SignalForge, an AI-powered investment research workflow focused on fin
 <div align="center">
 
 <a href="mailto:samairasharma152@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EC4899?style=for-the-badge&labelColor=3B3B3B" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EC4899?style=for-the-badge&labelColor=3B3B3B" alt="Email"/>
 </a>
 
 <a href="https://github.com/samairaxox">
-  <img src="https://img.shields.io/badge/GITHUB-SAMAIRAXOX-8B5CF6?style=for-the-badge&labelColor=3B3B3B&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-SAMAIRAXOX-8B5CF6?style=for-the-badge&labelColor=3B3B3B&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
