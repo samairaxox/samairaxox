@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-label="Samaira Sharma, AI engineer and full-stack developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b0b1d"/><stop offset=".55" stop-color="#21123d"/><stop offset="1" stop-color="#10102b"/></linearGradient><linearGradient id="neon"><stop stop-color="#f5a4e8"/><stop offset=".55" stop-color="#c3a1ff"/><stop offset="1" stop-color="#8be5ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b58de9" opacity=".3"/></pattern></defs>
+<rect width="1100" height="330" rx="22" fill="url(#bg)"/><rect width="1100" height="330" rx="22" fill="url(#dots)"/>
+<g fill="none" stroke="#bf8aff" opacity=".5"><path d="M30 90V32h65"/><path d="M1005 298h65v-58"/><path d="M40 275h120"/><path d="M945 54h110"/></g>
+<circle cx="950" cy="165" r="110" fill="#9b5dff" opacity=".08"><animate attributeName="r" values="100;120;100" dur="6s" repeatCount="indefinite"/></circle><circle cx="950" cy="165" r="76" fill="none" stroke="#c38bff" opacity=".22" stroke-width="2" stroke-dasharray="8 12"><animateTransform attributeName="transform" type="rotate" from="0 950 165" to="360 950 165" dur="40s" repeatCount="indefinite"/></circle>
+<text x="65" y="66" font-family="monospace" font-size="18" fill="#a9e9d9">samaira@github:~$ whoami <tspan fill="#f0b2ff">▌</tspan></text>
+<text x="65" y="148" font-family="Verdana,Arial,sans-serif" font-size="58" font-weight="bold" fill="url(#neon)" filter="url(#glow)">SAMAIRA SHARMA</text>
+<text x="67" y="199" font-family="monospace" font-size="23" fill="#e5d9ff">AI Engineer  •  Full-Stack Developer</text>
+<text x="67" y="237" font-family="monospace" font-size="19" fill="#d8a7ff">Building intelligent systems, one commit at a time.</text>
+<g><circle cx="70" cy="285" r="5" fill="#f2a4db"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="88" y="291" font-family="monospace" font-size="16" fill="#9eead8">STATUS: ALWAYS BUILDING</text></g>
+<g transform="translate(950 165)"><path d="M-35 -18h70v36h-70z" fill="none" stroke="#c59aff" stroke-width="3"/><path d="M-15 -4l9 8-9 8M0 12h16" fill="none" stroke="#a4f3e7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
